@@ -6,7 +6,7 @@ A simple notebook for JWST data analysis and visualization.
 
 **CSA Challenge Selected:** Exploring the distant universe with James Webb Space Telescope (Moonwalker/advanced).
 
-**Team Members:** Yusuf Ahmed, Dhvani Doshi, Ashley Ferreira, Daniel Reimer.
+**Galaxy Hunters Team Members:** Yusuf Ahmed, Dhvani Doshi, Ashley Ferreira, Daniel Reimer.
 
 **Contact:** If you run into issues with this notebook or want to discuss our work, you can reach us at ashleydc.fereira@gmail.com.
 
