@@ -6,10 +6,7 @@ A simple notebook for JWST data analysis and visualization.
 
 **CSA Challenge Selected:** Exploring the distant universe with James Webb Space Telescope (Moonwalker/advanced).
 
-
-**Submission Date:** October 2nd, 2022
-
-**Galaxy Hunters Team Members:** Yusuf Ahmed, Dhvani Doshi, Ashley Ferreira, Daniel Reimer.
+**Team Members:** Yusuf Ahmed, Dhvani Doshi, Ashley Ferreira, Daniel Reimer.
 
 **Contact:** If you run into issues with this notebook or want to discuss our work, you can reach us at ashleydc.fereira@gmail.com.
 
@@ -24,3 +21,5 @@ This jupyter notebook is intended to help users learn:
 The last two sections of the notebook also include:
 6. A bonus childrens book on JWST to inspire our future astronomers.
 7. Next steps for the project.
+
+Please feel free to use and improve this notebook.
