@@ -23,3 +23,5 @@ The last two sections of the notebook also include:
 7. Next steps for the project.
 
 Please feel free to use and improve this notebook.
+
+Link to google drive with presentation slides and book: https://drive.google.com/drive/folders/1iaxPjyybwXkv9A39m1G7ZXEn4Mvb7j4M?usp=share_link
