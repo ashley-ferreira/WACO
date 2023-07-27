@@ -1,5 +1,7 @@
 # **WACO**: **W**ebb g**A**laxy **CO**unter
 
+UPDATE: we won the advanced section of the CSA Space Apps challenges, check out the press release [here](https://www.asc-csa.gc.ca/eng/news/articles/2023/2023-03-27-space-apps-challenge-2022-congratulations-to-the-winners.asp)
+
 A simple notebook for JWST data analysis and visualization.
 
 *Galaxy Hunters Project Submission for NASA Space Apps 2022, Hamilton*
